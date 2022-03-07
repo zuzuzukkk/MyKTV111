@@ -1,0 +1,10 @@
+E:\KTV_1.0\MyKTV\MyKTV\bin\Debug\MyKTV.exe.config
+E:\KTV_1.0\MyKTV\MyKTV\bin\Debug\MyKTV.exe
+E:\KTV_1.0\MyKTV\MyKTV\bin\Debug\MyKTV.pdb
+E:\KTV_1.0\MyKTV\MyKTV\obj\Debug\MyKTV.csproj.AssemblyReference.cache
+E:\KTV_1.0\MyKTV\MyKTV\obj\Debug\MyKTV.Properties.Resources.resources
+E:\KTV_1.0\MyKTV\MyKTV\obj\Debug\MyKTV.csproj.GenerateResource.cache
+E:\KTV_1.0\MyKTV\MyKTV\obj\Debug\MyKTV.csproj.CoreCompileInputs.cache
+E:\KTV_1.0\MyKTV\MyKTV\obj\Debug\MyKTV.exe
+E:\KTV_1.0\MyKTV\MyKTV\obj\Debug\MyKTV.pdb
+E:\KTV_1.0\MyKTV\MyKTV\obj\Debug\MyKTV.FrmMain.resources
